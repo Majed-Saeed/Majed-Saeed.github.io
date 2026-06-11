@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://majed-saeed.github.io/sitemap.xml
